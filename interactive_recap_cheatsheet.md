@@ -23,6 +23,7 @@ git commit -m "Your message here"
 
 # Check status
 git status
+git branch -vv
 
 # View commit history
 git log --oneline
